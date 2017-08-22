@@ -12,5 +12,7 @@ knowledge base where world-class researchers and oncologists have manually annot
 thousands of mutations. We need to develop a Machine Learning algorithm that, using this
 knowledge base as a baseline, automatically classifies genetic variations based on clinical
 evidence (text).
+
 Link to Dataset : https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
 Link to code    : https://drive.google.com/file/d/0B1_-vwOrIIn-cks4UU51ZzNQXzA/view?usp=sharing
